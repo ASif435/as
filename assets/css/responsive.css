@@ -1,8 +1,8 @@
 /* Large desktop :1200px. */
-@media (min-width: 1170px) and (max-width: 1360px) {
+@media (min-width: 1170px) and (max-width: 1380px) {
 	.main-menu ul li {
 		display: inline-block;
-		padding: 39px 18px;
+		padding: 39px 15px;
 	}
 }
 
